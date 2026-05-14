@@ -1,10 +1,17 @@
 #BlueJ class context
 comment0.target=FinalLab
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ FinalLab\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment2.params=source
 comment2.target=void\ mirrorVertical(Picture)
-comment3.params=source\ target
-comment3.target=void\ copytoCanvas(Picture,\ Picture)
-numComments=4
+comment3.params=source
+comment3.target=void\ negate(Picture)
+comment4.params=source
+comment4.target=void\ grayscale(Picture)
+comment5.params=source
+comment5.target=void\ redify(Picture)
+comment6.params=source
+comment6.target=void\ redOverlay(Picture)
+comment7.params=source\ canvas\ startX\ startY
+comment7.target=void\ copytoCanvas(Picture,\ Picture,\ int,\ int)
+numComments=8
