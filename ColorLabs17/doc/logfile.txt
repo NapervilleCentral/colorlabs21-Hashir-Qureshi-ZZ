@@ -1,0 +1,62 @@
+Class documentation
+<---- javadoc command: ---->
+javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+21
+-classpath
+/Applications/BlueJ.app/Contents/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Java/javafx-web-21.0.3-mac-aarch64.jar:/Applications/BlueJ.app/Contents/Java/javafx-base-21.0.3-mac-aarch64.jar:/Applications/BlueJ.app/Contents/Java/javafx-graphics-21.0.3-mac-aarch64.jar:/Applications/BlueJ.app/Contents/Java/javafx-media-21.0.3-mac-aarch64.jar:/Applications/BlueJ.app/Contents/Java/javafx-fxml-21.0.3-mac-aarch64.jar:/Applications/BlueJ.app/Contents/Java/javafx-swing-21.0.3-mac-aarch64.jar:/Applications/BlueJ.app/Contents/Java/javafx-controls-21.0.3-mac-aarch64.jar:/Applications/BlueJ.app/Contents/Java/junit-4.12.jar:/Applications/BlueJ.app/Contents/Java/junit-jupiter-params-5.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-jupiter-api-5.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-jupiter-engine-5.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-platform-suite-api-1.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-vintage-engine-5.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-jupiter-5.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-platform-engine-1.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-platform-launcher-1.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-platform-commons-1.5.2.jar:/Applications/BlueJ.app/Contents/Java/hamcrest-core-1.3.jar:/Applications/BlueJ.app/Contents/Java/opentest4j-1.2.0.jar:/Applications/BlueJ.app/Contents/Java/lang-stride.jar:/Applications/BlueJ.app/Contents/Java/javafx/javafx.base.jar:/Applications/BlueJ.app/Contents/Java/javafx/javafx.controls.jar:/Applications/BlueJ.app/Contents/Java/javafx/javafx.fxml.jar:/Applications/BlueJ.app/Contents/Java/javafx/javafx.graphics.jar:/Applications/BlueJ.app/Contents/Java/javafx/javafx.media.jar:/Applications/BlueJ.app/Contents/Java/javafx/javafx.properties.jar:/Applications/BlueJ.app/Contents/Java/javafx/javafx.swing.jar:/Applications/BlueJ.app/Contents/Java/javafx/javafx.web.jar:/Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17
+-d
+/Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17/FinalLab.java
+<---- end of javadoc command ---->
+Loading source file /Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17/FinalLab.java...
+Constructing Javadoc information...
+/Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17/FinalLab.java:29: error: cannot find symbol
+    public static void mirrorVertical(Picture source)
+                                      ^
+  symbol:   class Picture
+  location: class FinalLab
+/Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17/FinalLab.java:49: error: cannot find symbol
+    public static void negate(Picture source)
+                              ^
+  symbol:   class Picture
+  location: class FinalLab
+/Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17/FinalLab.java:78: error: cannot find symbol
+    public static void grayscale(Picture source)
+                                 ^
+  symbol:   class Picture
+  location: class FinalLab
+/Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17/FinalLab.java:99: error: cannot find symbol
+    public static void redify(Picture source)
+                              ^
+  symbol:   class Picture
+  location: class FinalLab
+/Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17/FinalLab.java:119: error: cannot find symbol
+    public static void redOverlay(Picture source)
+                                  ^
+  symbol:   class Picture
+  location: class FinalLab
+/Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17/FinalLab.java:153: error: cannot find symbol
+    public static void copytoCanvas(Picture source, Picture canvas, int startX, int startY)
+                                    ^
+  symbol:   class Picture
+  location: class FinalLab
+/Users/hashirqureshi/Desktop/Coding/Java/colorlabs21-Hashir-Qureshi-ZZ/ColorLabs17/FinalLab.java:153: error: cannot find symbol
+    public static void copytoCanvas(Picture source, Picture canvas, int startX, int startY)
+                                                    ^
+  symbol:   class Picture
+  location: class FinalLab
+7 errors
